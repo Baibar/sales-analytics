@@ -172,7 +172,7 @@ select
         "new account" as event_name,
         new_account_cnt as value
 from `account`
-''
+''"
 
 #from google.colab import auth
 #from google.cloud import bigquery
